@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="unit_array">
+        <item>Đồng</item>
+        <item>Đô</item>
+        <item>Bảng</item>
+        <item>Rúp</item>
+    </string-array>
+</resources>
